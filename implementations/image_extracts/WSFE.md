@@ -2,10 +2,12 @@
 
 Javascript script to export monthly NDVI statistics by feature in a featureCollection.
 
-Dataset used: [https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_NDVI_V5](https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_NDVI_V5)  
+Dataset used: World Settlement Footprint-Evolution. Private GEE Asset available upon request of owner. Alternatively, freely WSF (2015) is avilable free for download
+and import into GEE here: https://figshare.com/articles/dataset/World_Settlement_Footprint_WSF_2015/10048412
 Timeframe: **1984 - 2019**  
 Precision: **30m**  
 
+GEE Code Editor link - https://code.earthengine.google.com/07c6d241d90900c41b29524148a78e0e
 ## Prerequisite
 
 - Reference polygon layer (e.g. administrative divisions or vector grid). To add as an import named **table**. 
