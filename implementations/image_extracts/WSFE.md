@@ -1,6 +1,6 @@
 # Country-level extracts: World Settlement Footprint - Evolution (WSFE)
 
-Javascript script to export monthly NDVI statistics by feature in a featureCollection.
+Javascript script to export a raster image dataset to an area of interest.
 
 Dataset used: World Settlement Footprint-Evolution. Private GEE Asset available upon request of owner. Alternatively, freely WSF (2015) is avilable free for download
 and import into GEE here: https://figshare.com/articles/dataset/World_Settlement_Footprint_WSF_2015/10048412
